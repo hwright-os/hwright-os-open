@@ -1,19 +1,17 @@
 {
-  "version": 8,
-  "metadata": {"maputnik:renderer": "mlgljs"},
-  "sources": {
-    "ngd-base": {
-      "type": "vector",
-      "tiles": [
-        "https://ordnance-omse-development-dev.apigee.net/maps/vector/ngd/ota/v1/collections/ngd-base/tiles/3857/{z}/{y}/{x}?key=CsYsaqgqNuAPeq5bBWePqQ2CdHYk7bOs"
-      ],
-      "minzoom": 6,
-      "maxzoom": 19,
-      "scheme": "xyz"
-    }
-  },
-  "sprite": "https://ordnance-omse-development-dev.apigee.net/maps/vector/ngd/ota/v1/collections/ngd-base/styles/blackwhite-3857/sprites/sprite",
-  "glyphs": "https://ordnance-omse-development-dev.apigee.net/maps/vector/ngd/ota/v1/collections/ngd-base/styles/blackwhite-3857/fonts/{fontstack}/{range}.pbf",
+    "version": 8,
+    "sprite": "https://ordnance-omse-development-dev.apigee.net/maps/vector/ngd/ota/v1/collections/ngd-base/styles/blackwhite-3857/sprites/sprite",
+    "glyphs": "https://ordnance-omse-development-dev.apigee.net/maps/vector/ngd/ota/v1/collections/ngd-base/styles/blackwhite-3857/fonts/{fontstack}/{range}.pbf",
+    "sources": {
+        "ngd-base": {
+            "type": "vector",
+            "attribution": "Contains Ordnance Survey data © Crown copyright. Use of this data is subject to terms and conditions.",
+            "minzoom": 6,
+            "maxzoom": 19,
+            "scheme": "xyz",
+            "url": "https://ordnance-omse-development-dev.apigee.net/maps/vector/ngd/ota/v1/collections/ngd-base/tiles/3857"
+        }
+    },
   "layers": [
     {
       "id": "background",
