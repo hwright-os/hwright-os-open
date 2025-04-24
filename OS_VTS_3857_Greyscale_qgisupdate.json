@@ -7986,7 +7986,8 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "right",
-                "text-rotate": [
+                "text-rotate":
+                    [
                         "get",
                         "_label_angle94"
                     ],
@@ -8017,7 +8018,8 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "right",
-                "text-rotate": [
+                "text-rotate": 
+                    [
                         "get",
                         "_label_angle84"
                     ],
