@@ -14517,7 +14517,7 @@
       "type": "symbol",
       "source": "ngd-base",
       "source-layer": "City:2",
-      "minzoom": 5.6889,
+      "minzoom": 6.6889,
       "maxzoom": 9.6889,
       "layout": {
         "text-font": ["Source Sans Pro Regular"],
