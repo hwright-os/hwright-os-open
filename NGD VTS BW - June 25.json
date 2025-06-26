@@ -1,7 +1,7 @@
 {
   "version" : 8,
-  "sprite" : "https://api.os.uk/maps/vector/ngd/ota/v1/collections/ngd-base/styles/light-3857/sprites/sprite",
-  "glyphs" : "https://api.os.uk/maps/vector/ngd/ota/v1/collections/ngd-base/styles/light-3857/fonts/{fontstack}/{range}.pbf",
+  "sprite" : "https://api.os.uk/maps/vector/ngd/ota/v1/collections/ngd-base/styles/blackwhite-3857/sprites/sprite",
+  "glyphs" : "https://api.os.uk/maps/vector/ngd/ota/v1/collections/ngd-base/styles/blackwhite-3857/fonts/{fontstack}/{range}.pbf",
   "sources" : {
     "ngd-base" : {
       "type" : "vector",
