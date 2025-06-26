@@ -14129,7 +14129,7 @@
       "type": "symbol",
       "source": "ngd-base",
       "source-layer": "trn_ntwk_road/label",
-      "minzoom": 16.5894,
+      "minzoom": 16,
       "maxzoom": 20,
       "layout": {
         "symbol-placement": "line",
@@ -14140,7 +14140,11 @@
         "text-field": "{_name}",
         "text-optional": true
       },
-      "paint": {"text-color": "rgba(106,111,115,0.7)"}
+      "paint": {
+        "text-color": "rgba(106,111,115,0.7)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
+        "text-halo-width": 1
+      }
     },
     {
       "id": "OS/NGD/str_fts_structure/label/Class 1",
